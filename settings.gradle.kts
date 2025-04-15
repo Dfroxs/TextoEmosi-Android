@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TexttoEmosi-Android"
 include(":app")
-include(":TexttoEmosi")
+include(":texttoemosi")
